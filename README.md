@@ -1,8 +1,8 @@
 ## Hi there! I'm Timothy Loo 👋
 
-[![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-j-loo/)](https://www.linkedin.com/in/timothy-j-loo/)
-[![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/TimothyLoo)](https://github.com/TimothyLoo)
-[![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:TimothyLoo07@gmail.com)](mailto:TimothyLoo07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Timothy%20Loo%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-j-loo/)](https://www.linkedin.com/in/timothy-j-loo/)
+[![GitHub](https://img.shields.io/badge/Timothy%20Loo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/TimothyLoo)](https://github.com/TimothyLoo)
+[![Gmail](https://img.shields.io/badge/Timothy%20Loo%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:TimothyLoo07@gmail.com)](mailto:TimothyLoo07@gmail.com)
 
 - :office: Software Engineer currently open to work
 - :round_pushpin: Based in Honolulu, HI
